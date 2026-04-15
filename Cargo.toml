@@ -29,7 +29,7 @@ rand = "0.8"
 serde_derive = "1.0"
 serde = "1.0"
 serde_json = "1.0"
-lazy_static = "1.5"
+lazy_static = "1.4"
 confy = { git = "https://github.com/rustdesk-org/confy" }
 dirs-next = "2.0"
 filetime = "0.2"
